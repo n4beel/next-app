@@ -13,19 +13,34 @@ const Home = () => {
                 </div>
                 <div className={classes.React}>
                     <div className={classes.headbox}>
-
-                        <Dropdown className={classes.head} >
-                            <Dropdown.Toggle className={classes.dropdown} variant="success">
-                                Dropdown Button
-                            </Dropdown.Toggle>
-
-                            <Dropdown.Menu>
-                                <Dropdown.Item href="#/action-1">Action</Dropdown.Item>
-                                <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
-                                <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
-                            </Dropdown.Menu>
-                        </Dropdown>
-
+                        <form>
+                            <div>
+                                <input className={classes.react} type='text' placeholder='Wunschbetrag' />
+                            </div>
+                            <div>
+                                <button className={classes.btn}>Laufzite</button>
+                            </div>
+                            <div>
+                                <button className={classes.btn}>verwundungszweck</button>
+                            </div>
+                            <div>
+                                <div className={classes.aus}><p className={classes.uber}>Günstigster Kredit aus über 60 Angeboten ab:</p>
+                                    <div className={classes.boss}>  <a className={classes.price}>243,86€</a> Mtl. Rate <a className={classes.play}>0,68%</a> <a className={classes.jahn}>Eff. Jahreszins</a></div> </div>
+                            </div>
+                            <div>
+                                <button className={classes.head}>
+                                    <div className={classes.ping}>
+                                        <div className={classes.start}>
+                                            kerditvergleich starten
+                                        </div>
+                                        <div>
+                                            <img className={classes.arrow} src='right-arrow.png' alt='tick' />
+                                        </div>
+                                    </div>
+                                    <div className={classes.form}>(Kostenlos und unverbindlich)</div>
+                                </button>
+                            </div>
+                        </form>
                     </div>
                     <div className={classes.round}>
                         <p>Schon ab</p>

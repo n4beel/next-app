@@ -1,0 +1,51 @@
+.box {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.page {
+  padding-bottom: 5rem;
+}
+
+.pagehead {
+  padding-top: 3rem;
+}
+
+.pagemiddle {
+  padding-bottom: 6rem;
+}
+
+.flex {
+  color: #165297;
+  padding-bottom: 0.5rem;
+}
+
+.place {
+  color: #7b99c4;
+  cursor: pointer;
+}
+.price {
+  width: 200px;
+  color: #7b99c4;
+}
+
+.adress {
+  display: flex;
+}
+.call {
+  padding-right: 1rem;
+  height: 30px;
+}
+
+.pride {
+  display: flex;
+  position: absolute;
+  left: 60rem;
+  padding-bottom: 8rem;
+}
+
+.tick {
+  height: 36px;
+  padding-left: 0.5rem;
+}

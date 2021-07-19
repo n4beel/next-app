@@ -75,3 +75,79 @@
   color: #11437d;
   padding-left: 5px;
 }
+
+.arrow {
+  padding-left: 0.125rem;
+  height: 20px;
+}
+.head {
+  border-radius: 8px;
+  background-color: #c07402;
+  color: white;
+  box-sizing: border-box;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
+}
+
+.start {
+  font-size: 16px;
+  width: 12rem;
+}
+.form {
+  padding-top: 0.5rem;
+  font-size: 14px;
+}
+
+.ping {
+  display: flex;
+}
+
+.uber {
+  font-size: 14px;
+}
+
+.btn {
+  box-sizing: border-box;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
+  border-radius: 8px;
+  background-color: #d0dcea;
+  padding-top: 0.9rem;
+}
+.aus {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  background-color: #d0dcea;
+  margin: auto;
+  padding-top: 0.5rem;
+}
+.uber {
+  font-size: 12px;
+}
+.price {
+  color: black;
+  font-size: 16px;
+}
+
+.play {
+  color: #1760b4;
+}
+
+.jahn {
+  font-size: 12px;
+  color: #11437d;
+}
+
+.boss {
+  padding-bottom: 0.5rem;
+}
+
+.react {
+  padding: 12px 46px;
+}
+

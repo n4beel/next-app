@@ -42,15 +42,6 @@
   padding-top: 20px;
 }
 
-.slate {
-  padding-left: 18rem;
-  padding-top: 20px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
 .center {
   display: flex;
   margin-left: 15rem;
@@ -60,20 +51,217 @@
   color: #7b8aa4;
   padding-top: 44px;
   padding-left: 20px;
-  text-align: center;
-  /* padding-right: 400px; */
+  /* text-align: center; */
 }
 
 .blow {
   padding-top: 20px;
   padding-left: 25rem;
+  height: 80px;
 }
 
 .tram {
   display: flex;
 }
 
-.blows {
-  height: 120px;
-  width: 80px;
+.bash {
+  height: 106px;
+  padding-left: 1.25rem;
+}
+
+.rating {
+  color: #165297;
+}
+
+.hollow {
+  color: #165297;
+}
+
+.anger {
+  color: #165297;
+  width: 780px;
+  font-size: 35px;
+  padding-top: 30px;
+}
+.slate {
+  padding-left: 24rem;
+}
+
+.kart {
+  width: 1200px;
+  padding-left: 24rem;
+  padding-top: 30px;
+}
+
+.hang {
+  color: #7b8aa4;
+}
+
+.btnprimary {
+  padding-top: 30px;
+  padding-left: 32rem;
+}
+
+.primarycolor {
+  background-color: #7397c1;
+  padding: 1rem;
+  margin: auto;
+  display: flex;
+  width: 800px;
+  height: 210px;
+  padding-top: 30px;
+}
+
+.idea {
+  height: 40px;
+}
+.line {
+  border-left: 1px solid white;
+  height: 164px;
+  margin-left: 16px;
+  margin-right: 6px;
+}
+
+.unordered {
+  margin-left: 2px;
+  margin-right: 8px;
+  color: white;
+}
+
+.vorteile {
+  padding-top: 40px;
+  padding-left: 38rem;
+  padding-right: 30rem;
+}
+
+.adress {
+  padding-top: 30px;
+  width: 1200px;
+  padding-left: 24rem;
+}
+
+.erste {
+  color: #7b8aa4;
+}
+
+.weil {
+  padding-top: 20px;
+  padding-left: 36rem;
+}
+
+.Page {
+  color: #165297;
+}
+
+.daher {
+  color: #7b8aa4;
+}
+
+.weils {
+  padding-top: 20px;
+  padding-left: 38rem;
+}
+
+.React {
+  padding-top: 20px;
+  padding-left: 24rem;
+  display: flex;
+}
+
+.tuv {
+  padding-top: 5px;
+  padding-right: 10px;
+}
+.pest {
+  padding-top: 10px;
+  width: 550px;
+}
+
+.hash {
+  padding-top: 20px;
+  padding-left: 32rem;
+}
+
+.images {
+  display: flex;
+}
+
+.dust {
+  display: block;
+  float: left;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  padding-top: 20px;
+}
+
+.kunden {
+  max-width: 400px;
+  color: #7b8aa4;
+}
+
+.images {
+  padding-top: 20px;
+}
+
+.blend {
+  padding-left: 18rem;
+}
+
+.box {
+  padding-left: 6rem;
+}
+
+.duster {
+  display: flex;
+  padding-left: 46rem;
+}
+
+.weiley {
+  padding-top: 20px;
+  padding-left: 30rem;
+}
+
+.unser {
+  padding-top: 20px;
+}
+
+.orderlist {
+  padding-top: 30px;
+  padding-right: 30px;
+  width: 800px;
+}
+
+.formular {
+  padding-right: 10rem;
+}
+
+.weiles {
+  padding-left: 46rem;
+}
+
+.dubbed {
+  display: flex;
+  padding-top: 30px;
+}
+
+.adresses {
+  width: 500px;
+}
+
+.selbests {
+  padding-left: 10rem;
+}
+
+.distract {
+  padding-left: 7rem;
+}
+
+.lenar {
+  padding-right: 8rem;
+}
+
+.danger {
+  margin-top: 8rem;
+  margin-bottom: 4rem;
+  border-top: 1px solid #7b8aa4;
 }
